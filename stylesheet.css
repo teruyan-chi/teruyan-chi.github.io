@@ -1,0 +1,16 @@
+.title {
+    color: whitesmoke;
+  }
+
+.top-wrapper{
+    height: 500px;
+    text-align: center;
+    background-size: cover;
+    background-image: url("photo\P2090068.JPG") ;
+    letter-spacing: 5px;
+    opacity: 0.7;
+}
+
+.photo1{
+    height:300px
+}
